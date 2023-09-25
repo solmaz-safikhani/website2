@@ -1,0 +1,237 @@
+.div1{
+    width: 800px;
+    height: 70px;
+    background-color: rgba(0, 255, 76, 0.765);
+    display: flex;
+    justify-content: center;
+    margin-left: 120px;
+    border-radius: 1rem;
+    border-style: dashed;
+}
+
+.div3 {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(238, 255, 127);
+    border-radius: 1rem;
+    margin-left: 670px;
+    margin-top: 5px;
+    display: inline-block;
+    border-style: solid;
+}
+
+.matn{
+        width: 540px;
+        height: 250px;
+        margin-top: -265px;
+        margin-left: 120px;
+        background-color: aquamarine;
+        border-radius: 1rem;
+        
+}
+
+.p1{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    
+}
+
+.div4{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(238, 255, 127);
+    border-radius: 1rem;
+    margin-left: 670px;
+    margin-top: 5px;
+    display: inline-block;
+    border-style: solid;
+}
+
+.matn2{
+    width: 540px;
+        height: 250px;
+        margin-top: -265px;
+        margin-left: 120px;
+        background-color: aquamarine;
+        border-radius: 1rem;
+}
+
+.p2{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    
+}
+
+.div5{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(238, 255, 127);
+    border-radius: 1rem;
+    margin-left: 670px;
+    margin-top: 5px;
+    display: inline-block;
+    border-style: solid;
+}
+
+
+
+.matn3{
+    width: 540px;
+        height: 250px;
+        margin-top: -265px;
+        margin-left: 120px;
+        background-color: aquamarine;
+        border-radius: 1rem;
+}
+
+.p3{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    
+}
+
+.div6{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(238, 255, 127);
+    border-radius: 1rem;
+    margin-left: 670px;
+    margin-top: 5px;
+    display: inline-block;
+    border-style: solid;
+}
+
+.matn4{
+    width: 540px;
+        height: 250px;
+        margin-top: -265px;
+        margin-left: 120px;
+        background-color: aquamarine;
+        border-radius: 1rem;
+}
+
+.p4{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    
+}
+
+.div7{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(238, 255, 127);
+    border-radius: 1rem;
+    margin-left: 670px;
+    margin-top: 5px;
+    display: inline-block;
+    border-style: solid;
+}
+
+.matn5{
+    width: 540px;
+        height: 250px;
+        margin-top: -265px;
+        margin-left: 120px;
+        background-color: aquamarine;
+        border-radius: 1rem;
+}
+
+.p5{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    
+}
+
+
+.img1{
+    width: 220px;
+    height: 200px;
+    margin-top: 5px;
+    margin-left: 12px;
+    border-radius: 1rem;
+    border-style: solid;
+}
+
+.h35{
+    margin-top: 2px;
+    margin-left: 65px;
+}
+
+.img2{
+    width: 220px;
+    height: 200px;
+    margin-top: 5px;
+    margin-left: 12px;
+    border-radius: 1rem;
+    border-style: solid;
+}
+
+.h34{
+    margin-top: 2px;
+    margin-left: 80px;
+}
+
+.img3{
+    width: 220px;
+    height: 200px;
+    margin-top: 5px;
+    margin-left: 12px;
+    border-radius: 1rem;
+    border-style: solid;
+}
+
+.h33{
+    margin-top: 2px;
+    margin-left: 80px;
+}
+
+
+.h32{
+    margin-top: 2px;
+    margin-left: 65px;
+}
+
+.h31{
+    margin-top: 2px;
+    margin-left: 65px;
+}
+
+*{
+    flex-wrap: wrap;
+}
+
+.footer{
+    width: 800px;
+    height: 70px;
+    background-color: rgba(0, 255, 76, 0.765);
+    margin-left: 120px;
+    border-radius: 1rem;
+    border-style: dashed;
+    margin-top: 12px;
+}
+
+.h6{
+   
+    margin-left: 40px;
+    display: inline-block;
+}
+.a{
+    color: blue;
+    margin-top: -50px;
+    margin-left: 80px;
+}
